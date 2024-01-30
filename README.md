@@ -37,7 +37,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, cor
 
 ## Autor
 
-Este jogo foi desenvolvido por [seu_nome_aqui]. 🕹️
+Este jogo foi desenvolvido por Igor Matias. 🕹️
 
 ## Licença
 
