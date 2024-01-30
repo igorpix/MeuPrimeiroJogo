@@ -1,30 +1,24 @@
-# Labirinto de Palavras - Readme
+# Labirinto de Palavras
 
-Bem-vindo ao Labirinto de Palavras desenvolvido em JavaScript utilizando a biblioteca p5!
+Bem-vindo ao Labirinto de Palavras, um jogo desenvolvido em JavaScript com a biblioteca p5!
 
 ## Descrição do Jogo
 
-Labirinto de Palavras é uma experiência interativa que desafia seus conhecimentos em português. Neste jogo, você navegará por um labirinto de palavras e deverá escolher o caminho certo para as palavras corretas e o caminho errado para as palavras incorretas.
+Labirinto de Palavras é uma experiência interativa que desafia seus conhecimentos em português. Navegue por um labirinto de palavras, escolhendo o caminho certo ou errado para progredir.
 
 ## Como Jogar
 
-1. Acesse o [Labirinto de Palavras](https://editor.p5js.org/igorpix/full/JZphkhsXd) em modo de tela cheia para uma melhor experiência.
+1. Acesse o [Labirinto de Palavras](https://editor.p5js.org/igorpix/full/JZphkhsXd) em modo de tela cheia.
 
 2. Clique na seta para cima se a palavra exibida estiver correta.
 
 3. Clique na seta para baixo se a palavra exibida estiver incorreta.
 
-4. Navegue pelo labirinto fazendo escolhas precisas para alcançar a saída.
-
-5. A pontuação aumenta conforme você faz escolhas corretas, mas cuidado, escolhas erradas podem diminuir sua pontuação.
-
-6. O jogo continua até que você alcance a saída ou decida encerrar.
-
 ## Como Executar o Código
 
 1. O código-fonte do jogo está disponível [aqui](https://editor.p5js.org/igorpix/sketches/JZphkhsXd).
 
-2. Abra o link do código no editor p5.js para visualizar e modificar o código conforme necessário.
+2. Abra o link do código no editor p5.js para visualizar e modificar conforme necessário.
 
 3. Experimente realizar alterações no código para personalizar ou aprimorar o jogo.
 
@@ -39,7 +33,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, cor
 
 ## Autor
 
-Este jogo foi desenvolvido por [seu_nome_aqui].
+Este jogo foi desenvolvido por Igor Matias.
 
 ## Licença
 
